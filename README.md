@@ -66,3 +66,7 @@ table td {
 Note the table-helper class styling the div we left in the first column. With this simple technique you can end in getting a beatiful styled table like this one.
 
 <img src="img/table.png" />
+
+See here a live example
+
+https://accedo-gps.000webhostapp.com/demo/html-table-styling/table.html
