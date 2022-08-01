@@ -12,7 +12,7 @@ So this would go as below:
 
 ```html
 
-<table>
+<table class="table">
   <thead>
     <tr>
       <th class="first"></th>  <!-- empty first column-->
