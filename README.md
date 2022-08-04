@@ -3,7 +3,7 @@ How to apply rounded corners and dropshadow to a table element
 
 Styling tables is always a pain for the frontend developer, since table elements do have limited customization options or techniques you can apply using CSS. However, designers will often propose layout and designs and you need to deal with them to please the client.
 
-First thing to make this clear, it is not possible to apply round edges to table elements, TR or TD or any of them, BUT, if you are able and do have the flexibility in the code to introduce a helper element, you can use this element to apply the custom styling.
+First thing to make this clear, it is not possible to apply round edges to table elements, TR do not support to add rounded edges, TD does, but usually the design will require to style an entire row and not every single columng. If you are able and do have the flexibility in the code to introduce a helper element, you can use this element to apply the custom styling.
 
 So this would go as below:
 
