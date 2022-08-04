@@ -31,7 +31,7 @@ So this would go as below:
 
 ```
 
-Style the first column with CSS with a 0 width and 0 height and then you can use the added div element in the first column and use it as a background for the entire row, apply a background color and the desired rounded edges and including a dropshadow if you wish. TR will have to hold this helper element, then if we use this as the container we can use position: absolute; to manipulate the helper div element.
+Style the first column with CSS with a 0 width and then you can use the added div element in the first column and use it as a background for the entire row, apply a background color and the desired rounded edges and including a dropshadow if you wish. TR will have to hold this helper element, then if we use this as the container we can use position: absolute; to manipulate the helper div element.
 
 ```css
 .table .first {
